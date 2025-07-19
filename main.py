@@ -12,7 +12,9 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
 
+
 BOT_TOKEN = "7054986465:AAFqsAOfgiOWC-BOtTOken-4CTGdM9Uc"
+
 GOOGLE_SHEETS_CREDS = "credentials.json"  # Файл из Google Cloud
 SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1vEZ50apy1Mt9iYejuUyC7khO7QrmT6ILYRUpCJ_A7ok/edit?usp=sharing"
 
